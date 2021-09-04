@@ -28,3 +28,8 @@ letter-spacing: 0.1em;
 text-align: left;
 }
 
+.header{
+    background-image: url('./assets/GBR1.jpg');
+    height: 100vh;
+    background-size: cover;
+}
